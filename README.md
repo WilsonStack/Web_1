@@ -42,3 +42,5 @@ Não é necessária nenhuma biblioteca ou servidor específico para executar os 
 1. Clone o repositório para o seu computador:
    ```bash
    git clone [https://github.com/WilsonStack/Web_1.git](https://github.com/WilsonStack/Web_1.git)
+
+*IFCE Campus Maranguape.*   
