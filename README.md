@@ -14,99 +14,99 @@ Este repositório reúne os exercícios práticos desenvolvidos para a fixação
 <details>
 <summary><b>Atividade 1</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ1.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ1.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_1)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_1/)
 </details>
 
 <details>
 <summary><b>Atividade 2</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ2.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ2.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_2)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_2/)
 </details>
 
 <details>
 <summary><b>Atividade 3</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ3.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ3.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_3)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_3/)
 </details>
 
 <details>
 <summary><b>Atividade 4</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ4.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ4.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_4)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_4/)
 </details>
 
 <details>
 <summary><b>Atividade 5</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ5.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ5.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_5)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_5/)
 </details>
 
 <details>
 <summary><b>Atividade 6</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ6.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ6.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_6)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_6/)
 </details>
 
 <details>
 <summary><b>Atividade 7</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ7.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ7.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_7)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_7/)
 </details>
 
 <details>
 <summary><b>Atividade 8</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ8.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ8.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_8)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_8/)
 </details>
 
 <details>
 <summary><b>Atividade 9</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ9.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ9.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_9)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_9/)
 </details>
 
 <details>
 <summary><b>Atividade 10</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ10.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ10.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_10)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_10/)
 </details>
 
 <details>
 <summary><b>Atividade 11</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ11.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ11.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_11)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_11/)
 </details>
 
 <details>
 <summary><b>Atividade 12</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ12.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ12.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_12)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_12/)
 </details>
 
 <details>
 <summary><b>Atividade 13</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ13.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ13.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_13)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_13/)
 </details>
 
 <details>
 <summary><b>Atividade 14</b></summary>
 
-* 🔗 [Repositório da Atividade](./ativ14.html)
-* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Web_1/ativ14.html)
+* 🔗 [Repositório da Atividade](https://github.com/WilsonStack/Atividade_14)
+* 🌐 [Páginas do GitHub](https://wilsonstack.github.io/Atividade_14/)
 </details>
 
 ---
