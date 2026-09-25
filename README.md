@@ -63,9 +63,21 @@ Este espaço reúne todos os exercícios, exemplos e práticas desenvolvidas no 
 
 ## 📦 Extras
 
-* **Escritório de Tecnologia**
-  * 🔗 [Repositório da Atividade](#) *(Adicione o seu link aqui)*
-  * 🌐 [Páginas do GitHub](#) *(Adicione o seu link aqui)*
+<details>
+<summary><b>📂 Ver Atividades Extras</b></summary>
+<br>
+
+| Extra | Repositório (Código) | GitHub Pages (Visualização) |
+| :--- | :--- | :--- |
+| **Extra 1:** Hierarquia de Títulos | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_1) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_1/) |
+| **Extra 2:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_2) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_2/) |
+| **Extra 3:** Inserção de Imagens | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_3) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_3/) |
+| **Extra 4:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_4) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_4/) |
+| **Extra 5:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_5) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_5/) |
+| **Extra 6:** Oficina de Tecnologia | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_6) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_6/) |
+| **Extra 7:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_7) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_7/) |
+
+</details>
 
 ---
 *Desenvolvido como projeto prático no IFCE Campus Maranguape.*
