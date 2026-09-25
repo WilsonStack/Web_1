@@ -70,10 +70,10 @@ Este espaço reúne todos os exercícios, exemplos e práticas desenvolvidas no 
 | Extra | Repositório (Código) | GitHub Pages (Visualização) |
 | :--- | :--- | :--- |
 | **Extra 1:** Hierarquia de Títulos | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_1) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_1/) |
-| **Extra 2:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_2) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_2/) |
+| **Extra 2:** Listas Aninhadas e Âncoras (Xadrez) | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_2) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_2/) |
 | **Extra 3:** Inserção de Imagens | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_3) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_3/) |
-| **Extra 4:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_4) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_4/) |
-| **Extra 5:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_5) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_5/) |
+| **Extra 4:** Elementos <select> e <textarea> | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_4) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_4/) |
+| **Extra 5:** Campo de Password em Formulário | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_5) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_5/) |
 | **Extra 6:** Oficina de Tecnologia | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_6) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_6/) |
 
 </details>
