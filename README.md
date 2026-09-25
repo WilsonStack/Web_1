@@ -75,7 +75,6 @@ Este espaço reúne todos os exercícios, exemplos e práticas desenvolvidas no 
 | **Extra 4:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_4) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_4/) |
 | **Extra 5:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_5) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_5/) |
 | **Extra 6:** Oficina de Tecnologia | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_6) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_6/) |
-| **Extra 7:** [Nome da Atividade] | 🔗 [Acessar Repositório](https://github.com/WilsonStack/Extra_7) | 🌐 [Ver Página Online](https://wilsonstack.github.io/Extra_7/) |
 
 </details>
 
