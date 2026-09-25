@@ -68,6 +68,4 @@ Este espaço reúne todos os exercícios, exemplos e práticas desenvolvidas no 
   * 🌐 [Páginas do GitHub](#) *(Adicione o seu link aqui)*
 
 ---
-<div align="center">
-  <small>© 2026 Francisco Wilson | Construído com ☕ e HTML5</small>
-</div>
+*Desenvolvido como projeto prático no IFCE Campus Maranguape.*
