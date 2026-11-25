@@ -1,0 +1,28 @@
+/* Fundo principal da página combinando com as caixas */
+body {
+    background-color: lavender;
+}
+
+/* Cores dos títulos principais e subtítulos */
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+/* Tamanho e cor do texto dos parágrafos */
+p {
+    font-size: 18px;
+    color: black;
+}
+
+/* Classes para pintar o fundo das seções */
+.fundo-azul {
+    background-color: lightblue;
+}
+
+.fundo-amarelo {
+    background-color: lightyellow;
+}
